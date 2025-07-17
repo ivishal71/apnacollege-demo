@@ -1,3 +1,3 @@
 # apnacollege-demo
 this is my first  repository
-author--vishal
+author--vishal shankhdhar
